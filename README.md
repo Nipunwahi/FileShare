@@ -2,8 +2,8 @@
 For Sharing files using LAN
 
 Requirement
-go get gopkg.in/cheggaaa/pb.v1
-go get github.com/grandcat/zeroconf
+- go get gopkg.in/cheggaaa/pb.v1
+- go get github.com/grandcat/zeroconf
 
 Then build using
 go build main.go
