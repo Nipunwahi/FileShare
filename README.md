@@ -9,8 +9,8 @@ Then build using
 go build main.go
 
 To make file open to sharing run
-./main -PATH "path_to_file"
+- ./main -PATH "path_to_file"
 This will out put a 5 digit code For eg- AB24D
 to recieve the file run
-./main -NICK CODE 
+- ./main -NICK CODE 
 which here is AB24D so the actual command would be ./main -NICK AB24D
